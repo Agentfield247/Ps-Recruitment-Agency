@@ -48,6 +48,9 @@ const Hero = () => {
               Learn More
             </Button>
           </div>
+	  <p className="mt-8 text-sm text-white/90 font-medium tracking-wider">
+            RC: 8654735
+          </p>
         </div>
       </div>
     </section>
