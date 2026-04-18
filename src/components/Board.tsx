@@ -3,10 +3,10 @@ import { User } from "lucide-react";
 
 const Board = () => {
   const boardMembers = [
-    { position: "Chairman", name: "Senator Jibril Muhammed" },
+    { position: "Chairman", name: "TBD" },
     { position: "Managing Director", name: "Philips John Ameh" },
-    { position: "Chief Security Officer", name: "Inspector Godwin Ochoyo" },
-    { position: "Secretary", name: "Ladi Janeth Ishaku" },
+    { position: "Chief Security Officer", name: "TBD" },
+    { position: "Secretary", name: "TBD" },
     { position: "Head Of Marketing", name: "Onyeyechi Njoku Cynthia" },
   ];
 
