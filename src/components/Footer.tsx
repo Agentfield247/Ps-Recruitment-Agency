@@ -50,8 +50,8 @@ const Footer = () => {
           <div>
             <h4 className="text-xl font-bold mb-4">Contact</h4>
             <ul className="space-y-2 text-background/80">
-              <li>Number 2 Akinsaya Street</li>
-              <li>Behind GTbank Gwagwalada</li>
+              <li>Shop 7, Off Yamusa Ankpa Street</li>
+              <li>Beside Potter's Field Academy Old Kutunku Gwagwalada</li>
               <li>FCT Abuja, Nigeria</li>
               <li className="pt-2">Phone: 08145427009</li>
               <li>WhatsApp: 09038787272</li>
