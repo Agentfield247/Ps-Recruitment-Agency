@@ -7,7 +7,7 @@ const Contact = () => {
     {
       icon: <MapPin className="w-6 h-6" />,
       title: "Office Location",
-      details: "Number 2 Akinsaya Street Behind GTbank Gwagwalada, FCT Abuja",
+      details: "Shop 7, Off Yamusa Ankpa Street, Beside Potter's Field Academy Old Kutunku Gwagwalada, FCT Abuja",
     },
     {
       icon: <Phone className="w-6 h-6" />,
