@@ -25,7 +25,7 @@ const Clients = () => {
     { name: "Depro Lodge", location: "Lugbe, FCT Abuja" },
     { name: "Olatunji Prestige Nigeria Limited", location: "Phase 1 Gwagwalada, FCT Abuja" },
     { name: "Havana Hotel And Suites", location: "Chika Airport Road, FCT Abuja" },
-    { name: "Junken International Limited", location: "Area 1, FCT Abuja" },
+      { name: "Jumken International IT Limited", location: "Lugbe, FCT Abuja" },
     { name: "Doctor Ade House", location: "Utako, FCT Abuja" },
     { name: "Zara Unisex Saloon", location: "Lugbe Market, FCT Abuja" },
   ];
